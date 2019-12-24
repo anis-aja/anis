@@ -1,0 +1,6 @@
+Hello....
+ini untuk belajar Git. 
+Git bisa: 
+1. Bikin Branch
+2. Bikin Fork
+3. Merge
