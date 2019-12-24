@@ -2,5 +2,7 @@ Hello....
 ini untuk belajar Git. 
 Git bisa: 
 1. Bikin Branch
+  - Branch bisa dibuat dari master atau branch juga
 2. Bikin Fork
 3. Merge
+
